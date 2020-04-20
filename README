@@ -1,0 +1,19 @@
+Name: Jian Gao
+
+This project has two parts. I split it into two .ipynb files for convenience. To run these three parts, the third file is just the same as the second file, which use normalization to make comparison more fair. To run them, users can:
+
+    Way 1: Open terminal and direct to the directory that contains these two files. Then type:
+            jupyter notebook lab1_part1.ipynb
+            jupyter notebook lab1_part2.ipynb
+            jupyter notebool lab1_part2_Normalization
+    
+    Way 2 : 
+            -- Open Anaconda and launch Jupyter Notebook in a python>3 environment. Make sure in this environment, following libraries have been installed: matplotlib, pandas, scikit-learn, numpy, seaborn.
+            -- Direct to these three files and open them
+    
+    Way 3 (For user using Google Colab):
+            -- Go to google Colab homepage. Choose File>Upload Notebook.
+            -- Upload lab1_part1.ipynb, lab1_part2.ipynb and lab1_part2_Normalization
+
+
+All results and answers are included in those two files. And I marked them very clearly. 
